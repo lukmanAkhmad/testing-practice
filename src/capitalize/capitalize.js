@@ -6,4 +6,5 @@ function capitalize(str) {
   return joinLetters;
 }
 
-module.exports = capitalize;
+// module.exports = capitalize;
+export { capitalize };

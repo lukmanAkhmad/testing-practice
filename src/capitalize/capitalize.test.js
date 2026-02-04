@@ -1,4 +1,5 @@
-const capitalize = require("./capitalize");
+// const capitalize = require("./capitalize");
+import { capitalize } from "./capitalize";
 
 describe("capitalize", () => {
   test("Capitalized the first character.", () => {
